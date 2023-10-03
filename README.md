@@ -12,7 +12,9 @@ Restaurants, Pizzas and RestaurantPizza
 ## Relationships
 
 A Restaurant has many Pizzas through RestaurantPizza
+
 A Pizza has many Restaurants through RestaurantPizza
+
 A RestaurantPizza belongs to a Restaurant and belongs to a Pizza
 
 ## Validations
