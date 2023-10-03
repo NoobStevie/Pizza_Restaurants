@@ -20,4 +20,5 @@ A RestaurantPizza belongs to a Restaurant and belongs to a Pizza
 ## Validations
 
 Add validations to the 'RestaurantPizza' model:
+
 -must have a 'price' between 1 and 30
